@@ -1,0 +1,11 @@
+{
+  "name": "Sentinel Driver Monitoring System",
+  "description": "Real-time AI-powered driver drowsiness and focus detection system to enhance road safety.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Computer Vision",
+    "Real-time Monitoring"
+  ]
+}
